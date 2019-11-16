@@ -1,7 +1,7 @@
 # Quizzy - A Quiz App
 ### A simple quiz application created with Node.js and MongoDB
 
-#### This is DBMS project carried out by Vaishnavi Nandakumar (Registration Number - 18BCI0147) under  the guidance of Prof. Sanjiban Shekhar Roy
+#### This is a DBMS project carried out by Vaishnavi Nandakumar (Registration Number - 18BCI0147) under  the guidance of Prof. Sanjiban Shekhar Roy
 
 ## Table of contents
 * [Quiz](#quiz)
